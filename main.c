@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 	int counter,a;
 	PERSONEL personel[5];
 	EXAM exam[11];
-	int i,j,k,belowAverage[5],aboveAverage[5];
+	int i,j,k;
 	
 	
 
